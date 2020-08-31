@@ -1,0 +1,17 @@
+Package: fun.yfyf.emojiforecast
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: EVAN <215288968@qq.com>
+Installed-Size: 632
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/me.syns.sample.deb
+Size: 208032
+MD5sum: 71a35ce48155497f99fc8a1f2bc9e35b
+SHA1: f8f6950cc4e36d59f125f7087fd1ac0d019f605d
+SHA256: 34567ca9220d835b2b1d5fbeede99b186f27328365ff4ff6e62b6eb4dfcc0f8a
+SHA512: 7a0037e534a7545f1e694b40dab92a52bd9e6868b0db64b073912312443c43f0395af6170a6378e4467a804a2e16bba4271ba72a45ee3c3449b2486cf8fbe5ca
+Description: Show emoji weather forecast on status bar!
+Name: EmojiForecast
+Author: EVAN <215288968@qq.com>
+
