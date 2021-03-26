@@ -1,0 +1,52 @@
+{
+    "bundle_id": "fun.yfyf.arcfix",
+    "name": "arcfix",
+    "version": "1.0.0",
+    "tagline": "Tweak",
+    "homepage": "https://repo.yfyf.fun",
+    "developer": {
+        "name": "EVAN",
+        "email": "215288968@qq.com"
+    },
+    "maintainer": {
+        "name": "EVAN",
+        "email": "215288968@qq.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/yang_harapeko"
+        },
+        {
+            "name": "QQ",
+            "url": "https://twitter.com/yang_harapeko"
+        },
+        {
+            "name": "Website",
+            "url": "https://repo.yfyf.fun/"
+        }
+    ],
+    "sponsor": {
+        "name": "EVAN",
+        "email": "215288968@qq.com"
+    },
+    "section": "Tweak",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+
+    "tint": "#55c6d3",
+    "works_min": "14.0",
+    "works_max": "14.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "changes": "第一版"
+        }
+    ]
+}

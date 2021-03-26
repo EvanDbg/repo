@@ -1,0 +1,11 @@
+{
+    "name": "evan's repo",
+    "description": "tweaks",
+    "tint": "",
+    "cname": "repo.yfyf.fun",
+    "maintainer": {
+        "name": "EVAN",
+        "email": "215288968@qq.com"
+    },
+    "automatic_git": "false"
+}
