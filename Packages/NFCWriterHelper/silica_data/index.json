@@ -2,7 +2,7 @@
     "bundle_id": "fun.yfyf.nfcwriterhelper",
     "name": "NFCWriterHelper",
     "version": "2.4.0",
-    "tagline": "Tweak",
+    "tagline": "让NFCWriter使用起来更加方便",
     "homepage": "https://repo.yfyf.fun",
     "developer": {
         "name": "EVAN",
@@ -36,8 +36,10 @@
     "conflicts": "",
     "replaces": "",
     "provides": "",
-    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
-
+    "other_control": [
+        "Tag: role::enduser",
+        "SomeOtherEntryToControl: True"
+    ],
     "tint": "#55c6d3",
     "works_min": "13.0",
     "works_max": "14.4",
