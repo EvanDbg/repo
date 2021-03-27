@@ -6,7 +6,7 @@
     {
       "label": "build",
       "type": "shell",
-      "command": "python3 index.py",
+      "command": "rm -rf docs/*; python3 index.py",
       "problemMatcher": [],
       "group": {
         "kind": "build",

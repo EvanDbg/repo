@@ -32,7 +32,7 @@
     },
     "section": "Tweak",
     "pre_dependencies": "",
-    "dependencies": "mobilesubstrate, preferenceloader",
+    "dependencies": "mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap",
     "conflicts": "",
     "replaces": "",
     "provides": "",
