@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.bigbangev",
     "name": "BigBangEv",
-    "version": "4.6.2",
+    "version": "4.6.5",
     "tagline": "让文字处理变得快捷并有趣",
     "homepage": "https://repo.yfyf.fun",
     "developer": {
@@ -46,6 +46,10 @@
     "featured": "true",
     "source": "",
     "changelog": [
+        {
+            "version": "4.6.5",
+            "changes": "1.集成Snapper2文字识别功能替换并增加开关，现在不用装两个插件了¥n2.增加拖入文字识别按钮后弹窗的开关，满足不同小朋友的需求"
+        },
         {
             "version": "4.6.2",
             "changes": "常规更新"
