@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.notix",
     "name": "NotiX",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -49,6 +49,10 @@
         {
             "version": "1.0.0",
             "changes": "第一版"
+        },
+        {
+            "version": "1.0.3",
+            "changes": "简单修复"
         }
     ]
 }
