@@ -3,7 +3,7 @@
     "name": "EmojiForecast",
     "version": "1.4",
     "tagline": "在运营商及时间位置显示天气",
-    "homepage": "https://repo.yfyf.fun",
+    "homepage": "https://beta.yfyf.fun",
     "developer": {
         "name": "EVAN",
         "email": "215288968@qq.com"
@@ -23,7 +23,7 @@
         },
         {
             "name": "Website",
-            "url": "https://repo.yfyf.fun/"
+            "url": "https://beta.yfyf.fun/"
         }
     ],
     "sponsor": {

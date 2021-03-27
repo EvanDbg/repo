@@ -3,7 +3,7 @@
     "name": "BigBangEv",
     "version": "4.6.5",
     "tagline": "让文字处理变得快捷并有趣",
-    "homepage": "https://repo.yfyf.fun",
+    "homepage": "https://beta.yfyf.fun",
     "developer": {
         "name": "EVAN",
         "email": "215288968@qq.com"
@@ -23,7 +23,7 @@
         },
         {
             "name": "Website",
-            "url": "https://repo.yfyf.fun/"
+            "url": "https://beta.yfyf.fun/"
         }
     ],
     "sponsor": {
@@ -32,7 +32,7 @@
     },
     "section": "Tweak",
     "pre_dependencies": "",
-    "dependencies": "mobilesubstrate, preferenceloader, rocketbootstrap",
+    "dependencies": "mobilesubstrate, preferenceloader",
     "conflicts": "",
     "replaces": "",
     "provides": "",

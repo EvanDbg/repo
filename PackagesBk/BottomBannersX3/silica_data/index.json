@@ -3,7 +3,7 @@
     "name": "BottomBannersX3",
     "version": "1.0.0",
     "tagline": "将通知Banner移动到屏幕底部",
-    "homepage": "https://repo.yfyf.fun",
+    "homepage": "https://beta.yfyf.fun",
     "developer": {
         "name": "EVAN",
         "email": "215288968@qq.com"
@@ -23,7 +23,7 @@
         },
         {
             "name": "Website",
-            "url": "https://repo.yfyf.fun/"
+            "url": "https://beta.yfyf.fun/"
         }
     ],
     "sponsor": {

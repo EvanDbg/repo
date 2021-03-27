@@ -3,7 +3,7 @@
     "name": "NFCWriterHelper",
     "version": "2.4.0",
     "tagline": "让NFCWriter使用起来更加方便",
-    "homepage": "https://repo.yfyf.fun",
+    "homepage": "https://beta.yfyf.fun",
     "developer": {
         "name": "EVAN",
         "email": "215288968@qq.com"
@@ -23,7 +23,7 @@
         },
         {
             "name": "Website",
-            "url": "https://repo.yfyf.fun/"
+            "url": "https://beta.yfyf.fun/"
         }
     ],
     "sponsor": {

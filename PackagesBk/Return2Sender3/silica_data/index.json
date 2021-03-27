@@ -3,7 +3,7 @@
     "name": "Return2Sender3",
     "version": "1.1.0",
     "tagline": "快捷回复时，将换行替换为发送",
-    "homepage": "https://repo.yfyf.fun",
+    "homepage": "https://beta.yfyf.fun",
     "developer": {
         "name": "EVAN",
         "email": "215288968@qq.com"
@@ -23,7 +23,7 @@
         },
         {
             "name": "Website",
-            "url": "https://repo.yfyf.fun/"
+            "url": "https://beta.yfyf.fun/"
         }
     ],
     "sponsor": {
