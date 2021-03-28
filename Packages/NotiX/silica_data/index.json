@@ -1,5 +1,5 @@
 {
-    "bundle_id": "fun.yfyf.notix",
+    "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
     "version": "1.0.3",
     "tagline": "重新定义通知功能",
@@ -52,7 +52,7 @@
         },
         {
             "version": "1.0.3",
-            "changes": "简单修复"
+            "changes": "新添加的App如果不设置条件，将会过滤该应用的所有通知。修复设置界面授权显示错误的问题"
         }
     ]
 }
