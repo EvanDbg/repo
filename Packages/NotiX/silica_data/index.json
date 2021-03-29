@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -53,6 +53,10 @@
         {
             "version": "1.0.3",
             "changes": "新添加的App如果不设置条件，将会过滤该应用的所有通知。修复设置界面授权显示错误的问题"
+        },
+        {
+            "version": "1.0.4",
+            "changes": "支持正则匹配，可以点击比较方法进行切换。更新UI图标。更新支持子标题。"
         }
     ]
 }
