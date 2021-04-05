@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "1.0.6",
+    "version": "1.0.5",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -61,10 +61,6 @@
         {
             "version": "1.0.5",
             "changes": "修复某些机器上无法清空屏蔽列表的错误，从NotiXApp点击屏蔽的通知跳转到相应的App，文字标签错误修正 [清扫]=>[轻扫] ，增加图文说明的按钮"
-        },
-        {
-            "version": "1.0.6",
-            "changes": "修复进入设置时卡顿（iOS13），锁屏提示闪烁效果，配置导入 导出，锁屏提示文字内容自定义"
         }
     ]
 }
