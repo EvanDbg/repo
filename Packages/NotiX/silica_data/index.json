@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -65,6 +65,10 @@
         {
             "version": "2.0.0",
             "changes": "1.增加锁屏显示内容自定义\n2.锁屏增加呼吸效果，可设置呼吸效果频率\n3.设置支持导入 导出 及从服务器同步（导入时只显示本机已安装的应用，可以自行设置想要导入的应用）"
+        },
+        {
+            "version": "2.0.1",
+            "changes": "修复部分用户设置规则或开关无法保存的问题"
         }
     ]
 }
