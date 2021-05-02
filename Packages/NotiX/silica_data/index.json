@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.1.1",
+    "version": "2.2.0",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -73,6 +73,10 @@
         {
             "version": "2.1.1",
             "changes": "1.通知中心内的通知左滑后，可以使用NotiX屏蔽设置按钮快速添加规则了。(从选择中可以很容易的分辨出，从哪个字段进行规则设置了。)\n2.锁屏上的提示文字现在可以设置文字大小了。\n3.NotiXApp中的通知，标题和子标题变成粗体了。"
+        },
+        {
+            "version": "2.2.0",
+            "changes": "1.NotiXApp中的通知支持左滑后快速设置过滤条件 2.各个App支持单独设置屏蔽后的动作->屏蔽并保存到NotiXApp，显示在控制中心并控制是否亮屏及是否播放铃声  4.每次在设置中打开通知过滤时，会弹出锁屏通知上快捷操作的提示。"
         }
     ]
 }
