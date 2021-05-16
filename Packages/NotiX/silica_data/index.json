@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.2.0",
+    "version": "2.2.5",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -77,6 +77,10 @@
         {
             "version": "2.2.0",
             "changes": "1.NotiXApp中的通知支持左滑后快速设置过滤条件 2.各个App支持单独设置屏蔽后的动作->屏蔽并保存到NotiXApp，显示在控制中心并控制是否亮屏及是否播放铃声  4.每次在设置中打开通知过滤时，会弹出锁屏通知上快捷操作的提示。"
+        },
+        {
+            "version": "2.2.5",
+            "changes": "增加未解锁处理，提高安全性 替换的消息，点击后可以正常跳转到替换后的应用了​"
         }
     ]
 }
