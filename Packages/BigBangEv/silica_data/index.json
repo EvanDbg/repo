@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.bigbangev",
     "name": "BigBangEv",
-    "version": "5.0.2",
+    "version": "5.2.1",
     "tagline": "让文字处理变得快捷并有趣",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -73,6 +73,10 @@
         {
             "version": "5.0.2",
             "changes": "未解锁状态增加处理，防止卡屏问题 ​支持微信多开 支持最新版​Snapper2的联动（在Snapper2中显示BigBangEv的按钮 需设置）"
+        },
+        {
+            "version": "5.2.1",
+            "changes": "* 支持多开版微信 * 恢复替换Snapper2的文字识别的功能 * 优化BigBang的窗口级别，修复BigBang显示中锁屏后无法输入密码的问题 * 关闭文字标签爆炸的功能（减少用户认为的屏幕断触问题） * 修复横屏时系统触发手势的问题 * 修复CopyLog支持功能，默认值不正确的问题 * 照片应用中增加BigBang按钮 * 相机应用中增加BigBang按钮 * 更换关闭按钮为图片，可以自行替换来统一风格"
         }
     ]
 }
