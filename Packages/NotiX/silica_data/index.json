@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.4.2",
+    "version": "2.4.3",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -85,6 +85,10 @@
         {
             "version": "2.4.2",
             "changes": "* 增加未解锁处理，防止卡屏 * 优化NotiX的窗口级别，修复NotiX显示中锁屏后无法输入密码的问题 * 替换的消息，点击后可以正常跳转到替换后的应用了 * 增加显示通知详细时间的功能 * 添加规则中增加取消按钮 * 屏蔽选项增加：完全屏蔽（不通知，不收进NotiXApp，不计入次数） * 设置中 增加清空NotiXApp的功能 * 修复NotiXApp在部分iOS13机型上闪退的问题"
+        },
+        {
+            "version": "2.4.3",
+            "changes": "* 增加锁屏通知样式设置功能 * 通知中心 文字可以替换为通知条数 或者隐藏 * 增加隐藏[没有更早的通知] * 增加下拉清空通知中心"
         }
     ]
 }
