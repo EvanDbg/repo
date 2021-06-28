@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.4.3",
+    "version": "2.4.9",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -89,6 +89,10 @@
         {
             "version": "2.4.3",
             "changes": "* 增加锁屏通知样式设置功能 * 通知中心 文字可以替换为通知条数 或者隐藏 * 增加隐藏[没有更早的通知] * 增加下拉清空通知中心"
+        },
+        {
+            "version": "2.4.9",
+            "changes": " * 修复可能导致安全模式的问题 * 增加基于关键字的勿扰穿透模式"
         }
     ]
 }
