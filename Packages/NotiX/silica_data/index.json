@@ -1,7 +1,7 @@
 {
     "bundle_id": "fun.yfyf.beta.notix",
     "name": "NotiX",
-    "version": "2.4.9",
+    "version": "2.5.1",
     "tagline": "重新定义通知功能",
     "homepage": "https://beta.yfyf.fun",
     "developer": {
@@ -93,6 +93,10 @@
         {
             "version": "2.4.9",
             "changes": " * 修复可能导致安全模式的问题 * 增加基于关键字的勿扰穿透模式"
+        },
+        {
+            "version": "2.5.1",
+            "changes": "修复NotiX可能闪退的问题"
         }
     ]
 }
