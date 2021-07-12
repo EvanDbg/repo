@@ -32,7 +32,7 @@
     },
     "section": "Tweak",
     "pre_dependencies": "",
-    "dependencies": "mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap",
+    "dependencies": "mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.spark.libsparkcolourpicker",
     "conflicts": "",
     "replaces": "",
     "provides": "",
